@@ -1,0 +1,8 @@
+@import "tailwindcss";
+:root {
+  --blueb: #307fe2;
+}
+body {
+  overflow-x: hidden;
+  font-family: "Noto Kufi Arabic", sans-serif;
+}

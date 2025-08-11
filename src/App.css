@@ -1,0 +1,8 @@
+.HoverBox{
+    &:hover{
+        >.west{
+           opacity: 1; 
+        }
+    }
+}
+
