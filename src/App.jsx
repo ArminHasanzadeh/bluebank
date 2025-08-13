@@ -1,14 +1,15 @@
 import React from "react";
 import Header from "./component/Nav/Header/header";
+import Main from "./page/Main/Main";
 
 function App() {
   return (
-    <>
-      <main className="h-[1000vh] w-full">
+    
+      <section className="flex-col flex justify-center items-center  ">
       <Header />
-        
-      </main>
-    </>
+      <Main />
+      </section>
+    
   );
 }
 

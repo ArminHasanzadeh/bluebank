@@ -1,8 +1,14 @@
 @import "tailwindcss";
 :root {
   --blueb: #307fe2;
+  --bgcolor: #eef4fc;
+}
+@font-face {
+  font-family: BlueFont;
+  font-style: normal;
+  src: url("../public/Font/YekanBakh-VF.woff");
 }
 body {
   overflow-x: hidden;
-  font-family: "Noto Kufi Arabic", sans-serif;
+  font-family: "BlueFont", sans-serif;
 }
