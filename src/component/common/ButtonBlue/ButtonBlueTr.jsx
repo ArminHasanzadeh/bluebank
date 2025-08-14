@@ -28,7 +28,7 @@ function ButtonBlueTr(props) {
             ></path>
           </svg>
         </span>
-        <p>دانلود اپلیکیشن</p>
+        <p> ویدئو معرفی بلو</p>
       </button>
     </div>
   );

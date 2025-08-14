@@ -42,7 +42,7 @@ function BlueCart(props) {
 
   return (
     <section className="w-screen h-auto font-bold text-3xl flex justify-center items-center flex-col gap-5 mb-10">
-      <h6 className="w-full h-full text-center">بلو فقط ابی نیست</h6>
+      <h4 className="w-full h-full text-center">بلو فقط ابی نیست</h4>
       <span className="w-full h-full text-center text-gray-600 text-[20px] mb-15">کارت‌های بلو</span>
       <div className="w-[63%] h-[70vh]   flex justify-center items-center gap-2  max-xl:w-full max-xl:h-auto max-xl:flex-col">
         <div className="w-[60%] h-full  flex justify-center items-center relative top-0 left-0 bg-[var(--bgcolor)] rounded-2xl max-md:w-[95%] max-md:h-[50%] ">

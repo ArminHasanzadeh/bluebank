@@ -16,4 +16,31 @@
     }
 
 }
+.Hover-Card{
+    &:hover{
+        .Mountain-Img{
+            transform: scale(1.1);
+            
+        }
+        .Mountain-Button{
+            >button{
+                width: 200px;
+                display: flex; justify-content: end; align-items: center;
+                visibility: visible;
+                background-color: var(--blueb);
+                >p{
+                    opacity: 1;
+                }
+                >span{
+                    >svg{
+                        >path{
+                            fill: white;
+                            
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 

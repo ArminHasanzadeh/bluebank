@@ -1,7 +1,11 @@
 @import "tailwindcss";
 :root {
   --blueb: #307fe2;
+ 
   --bgcolor: #eef4fc;
+  --Cardbox-color: #fbf2f3;
+  --Cardbox-color2: #e5f7f4;
+  --Cardbox-color3: #f2f1f9;
 }
 @font-face {
   font-family: BlueFont;
@@ -12,3 +16,4 @@ body {
   overflow-x: hidden;
   font-family: "BlueFont", sans-serif;
 }
+
