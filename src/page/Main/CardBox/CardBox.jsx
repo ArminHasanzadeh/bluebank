@@ -47,7 +47,7 @@ function CardBox(props) {
                 <h6 className="text-3xl h-auto p-3  mt-10 font-bold w-full flex justify-start items-center  ">وام، ولی دست یافتنی</h6>
                 <p className="text-[20px] w-full h-auto text-justify p-5">بدون ضامن و وثیقه در کمتر از ۷ دقیقه وام سریع و آسان بلو را دریافت کنید. با میانگین حساب خود در ۳ ماه متوالی می‌توانید از ۳ تا ۴۰ میلیون وام بگیرید. </p>
             </div>
-             <div className="Mountain-Button flex justify-start items-end p-5 w-full h-[50%] max-lg:h-auto   ">
+             <div className="Mountain-Button flex justify-start items-end p-5 w-full h-[50%] max-lg:h-auto ">
                     <button className="transition-all w-[10%] h-[50px]  rounded-4xl flex justify-center items-center bg-white relative top-0 left-0  max-lg:h-[40px] ">
                         <p className="transition-all text-[16px] flex justify-center absolute top-0 right-0 items-center  opacity-0 w-[70%] h-full text-white  ">
                             مشاهده بیشتر
