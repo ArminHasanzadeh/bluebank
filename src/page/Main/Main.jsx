@@ -5,6 +5,8 @@ import BlueCart from './BlueCart/BlueCart';
 import CardBox from './CardBox/CardBox';
 import BlueLine from './BlueLine/BlueLine';
 
+import PhoneBox from './PhoneBox/PhoneBox';
+
 function Main(props) {
     return (
         <main>
@@ -13,6 +15,7 @@ function Main(props) {
             <BlueCart />
             <CardBox />
             <BlueLine />
+            <PhoneBox />
         </main>
     );
 }

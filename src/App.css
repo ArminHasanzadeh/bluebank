@@ -43,5 +43,8 @@
         }
     }
 }
-
+.PhoneBg{
+    background-image: url(../public/teaser-background.svg);
+    
+}
 
