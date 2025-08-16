@@ -6,7 +6,7 @@ import FooterLinks from "./FooterLinks";
 
 function FooterSide1(props) {
   return (
-    <section className="w-screen pt-20 h-auto bg-gray-300 flex justify-center items-center flex-col pb-20">
+    <section className="w-screen pt-20 h-auto bg-gray-100 flex justify-center items-center flex-col pb-20">
       <div className="w-[60%] h-full flex justify-center items-center ">
         <div className="w-[50%] h-full flex justify-start items-center">
           <Logo />
