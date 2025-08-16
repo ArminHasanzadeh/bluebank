@@ -15,5 +15,10 @@
 body {
   overflow-x: hidden;
   font-family: "BlueFont", sans-serif;
+  
+}
+html{
+  scroll-behavior: smooth;
+
 }
 

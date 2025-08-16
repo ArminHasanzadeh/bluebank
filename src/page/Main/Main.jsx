@@ -6,16 +6,19 @@ import CardBox from './CardBox/CardBox';
 import BlueLine from './BlueLine/BlueLine';
 
 import PhoneBox from './PhoneBox/PhoneBox';
+import Question from './component/Question';
 
 function Main(props) {
     return (
         <main>
+            <div id="#Top"></div>
             <TopMain />
             <ContentMain />
             <BlueCart />
             <CardBox />
             <BlueLine />
             <PhoneBox />
+            <Question />
         </main>
     );
 }

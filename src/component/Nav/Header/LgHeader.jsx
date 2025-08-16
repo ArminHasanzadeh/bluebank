@@ -13,7 +13,7 @@ function LgHeader() {
 
   return (
     <header
-      className={`w-full h-[10%] flex justify-center items-start transition-all bg-white z-60  border-b-gray-300 border-b-2 shadow-lg   xl:hidden max-lg:visible fixed top-0 left-0  ${
+      className={`w-full h-[10%] flex justify-center items-start transition-all bg-white z-60  border-b-gray-300 border-b-2 shadow-lg   xl:hidden max-lg:visible fixed top-0 overflow-hidden ${
         open ? "h-[50%]" : ""
       } ${open_drop_down ? "h-auto  max-md:h-auto":""}`}
     >
